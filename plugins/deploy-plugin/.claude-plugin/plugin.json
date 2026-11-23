@@ -1,0 +1,6 @@
+{
+  "name": "deploy-plugin",
+  "description": "Deployment commands for GitHub Pages and Vercel",
+  "version": "1.0.0",
+  "author": { "name": "svuncle" }
+}
